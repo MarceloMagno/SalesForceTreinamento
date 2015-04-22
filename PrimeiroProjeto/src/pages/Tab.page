@@ -1,0 +1,6 @@
+<apex:page id="thePage" standardController="Opportunity">
+    <apex:tabPanel switchType="client" selectedTab="name2" id="theTabPanel">
+        <apex:tab label="One" name="name1" id="tabOne">Teste 1</apex:tab>
+        <apex:tab label="Two" name="name2" id="tabTwo">Teste 2</apex:tab>
+    </apex:tabPanel>
+</apex:page>
