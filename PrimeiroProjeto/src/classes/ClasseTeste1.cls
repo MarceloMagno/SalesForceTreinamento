@@ -1,7 +1,6 @@
-@isTest
-private class ClasseTeste1 {
+public class ClasseTeste1 {
 
     static testMethod void myUnitTest() {
-        // TO DO: implement unit test
+        //Teste commit git
     }
 }
