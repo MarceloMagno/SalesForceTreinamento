@@ -1,7 +1,0 @@
-<apex:page renderAs="pdf" >
-    Primeira pagina!
-    Usuário: {!$User.FirstName}
-    
-    {!IF( DAY(TODAY()) > 14, "Maior", "Menor") }
-    
-</apex:page>
